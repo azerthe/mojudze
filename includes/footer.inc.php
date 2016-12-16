@@ -1,11 +1,13 @@
- </div>
+</div>
 
-      <footer>
-        <p>&copy; ULCO 2016 - 2017</p>
+<footer>
+    <div class="page-header well">
+        <p align="center">&copy; ULCO 2016 - 2017</p>
+    </div>
 
-      </footer>
- </div>
+</footer>
+</div>
 
-  </body>
+</body>
 </html>
 
